@@ -28,6 +28,8 @@ Seu objetivo é montar o layout de acordo com a image acima e implementar as seg
     - Publicar o projeto numa conta free da [Vercel](https://vercel.com/) ou equivalente
     - Enviar o link do projeto no seu GitHub e a URL do projeto publicado
 
+Link Url: https://desafio-dev-fullstack.vercel.app/
+
 ## Requisitos
 
 - Next.js
